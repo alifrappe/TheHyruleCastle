@@ -1,0 +1,24 @@
+{
+  "name": "the_hyrule_castle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc game.ts && node game.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "cli-progress": "^3.12.0",
+    "enquirer": "^2.4.1",
+    "figlet": "^1.7.0",
+    "node": "^21.7.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
