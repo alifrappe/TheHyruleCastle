@@ -1,0 +1,1 @@
+The hyrule Castle est le deuxième projet que j'ai réalisé durant ma piscine à l'ETNA. C'est un jeu en un contre un, où le personnage principal faisant référence à l'un des héros du jeu Zelda, rencontre des adversaires envers qui il peut infliger des dégats. 
