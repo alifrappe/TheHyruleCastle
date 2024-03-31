@@ -1,1 +1,14 @@
-The hyrule Castle est le deuxième projet que j'ai réalisé durant ma piscine à l'ETNA. C'est un jeu en un contre un, où le personnage principal faisant référence à l'un des héros du jeu Zelda, rencontre des adversaires envers qui il peut infliger des dégats. 
+The Hyrule Castle is a turn-by-turn RPG. You incarnate a character that challenges the Hyrule Castle, a tower composed of 10 floors. Each floor you encounter an enemy and on the last floor, you challenge the Boss.
+
+## Objectives
+Apply basic TypeScript concepts through a project
+Deal with game development problematics
+Manage user input and its error handling
+Improve your programming knowledge by building a script
+Create gameplay around algorithmic and mathematic functions
+
+## Usage
+```sh
+npx tsx game.ts
+````
+
